@@ -41,7 +41,8 @@ Finalizações Alternativas:
 
 Vitória do Guerreiro: Arthur sela a Jóia dos Deuses para sempre e retorna ao seu reino como o salvador de Eldoria. As sombras dissipam, e a paz é restaurada.
 Vitória do Mago: Merlin conquista a Jóia e espalha sua escuridão sobre Eldoria, criando um novo império de poder absoluto. Sombras cobrem o horizonte, e a era de Merlin começa.
-
+------------------------------------------------------------------------------------------------------
+# Nome do jogo: Dazzo : O Legado da Jóia
 ------------------------------------------------------------------------------------------------------
 # Objetivo📍 
 Esse jogo é um simples RPG baseado em turnos, onde o jogador pode escolher entre dois personagens: um Guerreiro ou um Mago. A estrutura do jogo inclui uma batalha entre o personagem escolhido pelo jogador e um oponente controlado pelo computador. Vamos explicar em detalhes como o jogo funciona:
