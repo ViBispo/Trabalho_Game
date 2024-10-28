@@ -5,9 +5,9 @@ Trabalho de um game RPG realizado para materia de Progamação Orientada a Objet
 # Nome dos integrantes do grupo📄
 Nome: Victor Eduardo Almeida Bispo
 
-Nome: luiz
+Nome: Luiz Guilherme Bittencourt 
 
-Nome:
+Nome: João Pedro Ferreira Pellegrini
 
 ------------------------------------------------------------------------------------------------------
 Link Repositorio GitHub : https://github.com/ViBispo/Trabalho_Game
