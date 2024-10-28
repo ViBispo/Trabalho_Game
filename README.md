@@ -7,7 +7,7 @@ Nome: Victor Eduardo Almeida Bispo
 
 Nome: luiz
 
-Nome:
+Nome: João Pedro Ferreira Pellegrini
 
 ------------------------------------------------------------------------------------------------------
 Link Repositorio GitHub : https://github.com/ViBispo/Trabalho_Game
