@@ -82,3 +82,5 @@ O jogador escolhe um personagem.
 Ambos os personagens alternam turnos atacando um ao outro até que um deles perca toda a vida.
 A vitória é determinada pela vida restante.
 Esse jogo é um exemplo clássico de RPG baseado em turnos e oferece uma experiência simples e direta para aprender o básico de lógica de jogo e controle de fluxo.
+------------------------------------------------------------------------------------------------------
+# Link do video : https://youtu.be/xS3k7fX_8C8
