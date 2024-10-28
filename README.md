@@ -1,8 +1,8 @@
-# Trabalho_Game
+# Trabalho_Game🎮
 Trabalho de um game RPG realizado para materia de Progamação Orientada a Objeto.
 
 ------------------------------------------------------------------------------------------------------
-# Nome dos integrantes do grupo:
+# Nome dos integrantes do grupo📄
 Nome: Victor Eduardo Almeida Bispo
 
 Nome: luiz
@@ -13,7 +13,7 @@ Nome:
 Link Repositorio GitHub : https://github.com/ViBispo/Trabalho_Game
 
 ------------------------------------------------------------------------------------------------------
-# Trama 
+# Trama🎭 
 
 No mundo místico de Eldoria, dois reinos ancestrais competem pelo domínio de uma relíquia lendária: a poderosa Jóia dos Deuses. Há séculos, o Reino da Luz e o Reino das Sombras convivem em um frágil equilíbrio, mas rumores de que a Jóia dos Deuses foi encontrada em uma antiga caverna ao norte despertam o desejo de conquista em ambos os reinos.
 
@@ -43,7 +43,7 @@ Vitória do Guerreiro: Arthur sela a Jóia dos Deuses para sempre e retorna ao s
 Vitória do Mago: Merlin conquista a Jóia e espalha sua escuridão sobre Eldoria, criando um novo império de poder absoluto. Sombras cobrem o horizonte, e a era de Merlin começa.
 
 ------------------------------------------------------------------------------------------------------
-# Objetivo 
+# Objetivo📍 
 Esse jogo é um simples RPG baseado em turnos, onde o jogador pode escolher entre dois personagens: um Guerreiro ou um Mago. A estrutura do jogo inclui uma batalha entre o personagem escolhido pelo jogador e um oponente controlado pelo computador. Vamos explicar em detalhes como o jogo funciona:
 
 ------------------------------------------------------------------------------------------------------
@@ -51,14 +51,14 @@ Esse jogo é um simples RPG baseado em turnos, onde o jogador pode escolher entr
 # Introdução
 Quando o jogo é iniciado, ele apresenta ao jogador a trama do jogo. O mundo de Eldoria está em guerra entre o Reino da Luz e o Reino das Sombras, disputando a poderosa "Jóia dos Deuses".
 
-# Escolha de Personagem
+# Escolha de Personagem👥
 O jogador tem duas opções de personagens:
 
 Guerreiro Arthur: Possui maior vida e força para ataques físicos.
 Mago Merlin: Tem menos vida, mas usa magia que consome mana para causar dano ao oponente.
 O jogador escolhe o personagem digitando 1 para Guerreiro ou 2 para Mago. Caso insira um número inválido, o personagem padrão será o Guerreiro.
 
-# Batalha
+# Batalha ⚔
 A batalha é o núcleo do jogo e segue um esquema de turnos:
 
 Ações do jogador: A cada turno, o jogador escolhe entre atacar (1) ou verificar status (2).
@@ -67,7 +67,7 @@ Atacar: Causa dano ao inimigo. O Guerreiro ataca diretamente com a espada, enqua
 Verificar status: Exibe a vida atual do jogador e, se for um Mago, também mostra a quantidade de mana disponível.
 Ações do inimigo: Se o inimigo ainda estiver vivo após o turno do jogador, ele também ataca o jogador, seguindo a mesma lógica de ataque baseada na classe.
 
-# Final do Jogo
+# Final do Jogo🏆
 O jogo termina quando a vida de um dos personagens chega a zero. O vencedor é anunciado, e o jogo exibe um desfecho baseado no personagem vitorioso:
 
 Se o jogador vencer, ele restaura a paz em Eldoria.
