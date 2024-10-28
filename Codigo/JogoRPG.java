@@ -4,14 +4,11 @@ public class JogoRPG {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Introdução à trama
         Trama.introduzirTrama();
 
-        // Criando personagens
         Guerreiro guerreiro = new Guerreiro("Arthur", 100, 20);
         Mago mago = new Mago("Merlin", 80, 15, 50);
 
-        // Escolha do personagem
         System.out.println("Escolha seu personagem: 1. Guerreiro | 2. Mago");
         int escolha = scanner.nextInt();
 
@@ -30,11 +27,10 @@ public class JogoRPG {
             inimigo = mago;
         }
 
-        // Descrição do personagem escolhido e enredo
+        
         Trama.descricaoPersonagem(jogador);
         Trama.descricaoEnredo();
 
-        // Início da batalha
         System.out.println("Batalha iniciada entre " + jogador.getNome() + " e " + inimigo.getNome());
 
         while (jogador.getVida() > 0 && inimigo.getVida() > 0) {
@@ -59,7 +55,6 @@ public class JogoRPG {
             }
         }
 
-        // Resultado da batalha
         if (jogador.getVida() > 0) {
             System.out.println(jogador.getNome() + " venceu!");
             System.out.println("Parabéns, você conquistou a Jóia dos Deuses e restaurou a paz em Eldoria!");
