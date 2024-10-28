@@ -5,7 +5,7 @@ Trabalho de um game RPG realizado para materia de Progamação Orientada a Objet
 # Nome dos integrantes do grupo📄
 Nome: Victor Eduardo Almeida Bispo
 
-Nome: Luiz Guilherme Bittencourt 
+Nome: Luiz Guilherme Bittencourt
 
 Nome: João Pedro Ferreira Pellegrini
 
